@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 800px;
+    height: 500px;
+}
+
+.left{
+    width: 300px;
+    height: 500px;
+    float: left;
+}
+
+.one{
+    width: 300px;
+    height: 150px;
+    float: left;
+    background-color: sandybrown;
+}
+
+.two{
+    width: 295px;
+    height: 345px;
+    margin-top: 5px;
+    float: left;
+    background-color: sandybrown;
+}
+
+.three{
+    width: 500px;
+    height: 250px;
+    float: right;
+}
+
+.three1{
+    width: 500px;
+    height: 250px;
+    float: right;
+    background-color: sandybrown;
+    background: linear-gradient(to bottom right, red);
+}
+
+.center-top{
+    width: 500px;
+    height: 120px;
+    margin-top: 5px;
+    float: left;
+}
+
+.right-top{
+    width: 245px;
+    height: 120px;
+    float: right;
+    background-color: sandybrown
+}
+
+.center-bottom{
+    width: 500px;
+    height: 125px;
+    float: left;
+}
+
+.left-bottom{
+    width: 250px;
+    height: 120px;
+    margin-top: 5px;
+    float: left;
+    background-color: sandybrown;
+}
+
+.right-bottom{
+    width: 245px;
+    height: 120px;
+    margin-top: 5px;
+    margin-left: 5px;
+    float: left;
+    background-color: sandybrown;
+}
